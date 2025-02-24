@@ -4,7 +4,7 @@ Here's a quick PCA analysis on just 12 data points, the percentage support acros
 
 First, the loadings of the first two principal components for the 7 parties from running PCA on the 12 data points.
 
-
+![](blob/master/Screen%20Shot%202025-02-24%20at%204.59.57%20PM.png)
 
 There seem to be two separate dimensions, on issues much remarked-on these days - an axis that looks like traditional left-to-right (maybe especially on immigration and/or cultural issues?), and an axis that looks like a populism versus establishment orientation, or what some commentators might call an anti-system vs. pro-system axis.  (Or more neutrally, I guess they're newer versus older parties.)
 
